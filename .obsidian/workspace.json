@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "84ee6349e43d3a8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c413d2e6d6407ec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c53e9d06c71a679",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "164d8932c9bf340f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powertrain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d4b49ea9d54f7db",
+    "type": "split",
+    "children": [
+      {
+        "id": "c282417c18e0399d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c89dcbb1459a047",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83430c6ae563e17d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "580059af163b59fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78fe09f4c81cf726",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4edf890c09c1d95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb6d5f6965a8449",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Powertrain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a68494a4761c6a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Powertrain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56df1f0b369d1481",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef45a52db9c7a940",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Powertrain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "164d8932c9bf340f",
+  "lastOpenFiles": [
+    "LV.md",
+    "Powertrain.md",
+    "HV.md",
+    "Lighting.md",
+    "Inverter.md"
+  ]
+}

@@ -1,0 +1,4 @@
+[[Inverter]]
+[[Motors]]
+[[battery]]
+[[charger]]
