@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "4bc76d938fc327c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "40543f691d63d477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4286fc92fb6835a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell24_powertrain/Powertrain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "875307d1c357e018",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e12fca5f3cac891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885602eee3428631",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d9b1e3415bb25ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4323fde4fa4dccd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee276c66d293d260",
+    "type": "split",
+    "children": [
+      {
+        "id": "60d5047e737f40e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54730d1a83cdbcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shell24_powertrain/Powertrain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b20aed737214dab3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shell24_powertrain/Powertrain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edae41ebca1d0c21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef54c425baa15359",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shell24_powertrain/Powertrain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f4286fc92fb6835a",
+  "lastOpenFiles": [
+    "Shell24_powertrain/Innovation.md",
+    "Shell24_powertrain/Safety and rules.md",
+    "Shell24_powertrain/Wiring.md",
+    "Shell24_powertrain/Motors.md",
+    "Shell24_powertrain/Software.md",
+    "Shell24_powertrain/hardware.md",
+    "Shell24_powertrain/battery.md",
+    "powertrain/Powertrain.md",
+    "powertrain/Untitled.md",
+    "powertrain",
+    "Power Efficiency.md",
+    "Shell24_powertrain/Powertrain.md",
+    "Shell24_powertrain/Lighting.md",
+    "Shell24_powertrain/LV.md",
+    "Shell24_powertrain/HV.md",
+    "Shell24_powertrain/Inverter.md",
+    "Untitled.md"
+  ]
+}
